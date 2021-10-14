@@ -1,5 +1,5 @@
 # 概要
-「TECH LEAD ENGINEERから最新技術を学べ！VUE.JS/NUXT.JS編​」
+[TECH LEAD ENGINEERから最新技術を学べ！VUE.JS/NUXT.JS編​](https://shuuu-mai.connpass.com/event/224092/)
 で利用したdemo用プロジェクト
 
 ## 説明

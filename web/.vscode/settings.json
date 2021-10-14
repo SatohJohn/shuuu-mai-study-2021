@@ -1,0 +1,13 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "editor.action.formatDocument": true
+  },
+  "editor.formatOnSave": true,
+  "prettier.configPath": "./node_modules/prettier",
+  "editor.tabSize": 2,
+}
